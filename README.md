@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+GitHub beginner, not much to be said.
+Hope to learn a thing or two, maybe publish something cool while I'm at it.
+Yay
+
 <!--
 **lucagig/lucagig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
